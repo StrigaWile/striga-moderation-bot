@@ -1,0 +1,11 @@
+{
+  "name": "strgbestjoder",
+  "version": "0.0.1",
+  "description": "StrigaWizor",
+  "main": "superstriga.js",
+  "scripts": {
+    "test": "."
+  },
+  "author": "Striga :)",
+  "license": "ISC"
+}

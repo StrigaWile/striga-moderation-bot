@@ -1,0 +1,58 @@
+{
+
+"ServerAuthorizedPerms": {
+"RegisterID": "",
+"BanSpearID": "",
+"JailSpearID": "",
+"MuteSpearID": "",
+"VoiceMuteSpearID": "",
+"AbilityID": "",
+"OzelRol": ""
+},
+
+"Channels": {
+"RulesLogChannelID": "",
+"BanLogChannelID": "",
+"JailLogChannelID": "",
+"MuteLogChannelID": "",
+"VoiceMuteLogChannelID": ""
+},
+
+"Penalties": {
+"JailRole": "ID",
+"MuteRole": "ID",
+"YasakliTag": "ID"
+},
+
+"ServerSettings": {
+"GuildID": "",
+"GuildName": "",
+"KatildiRol": "",
+"ToplantiKanal": "",
+"UnregisterID": "",
+
+"ServerTag": "",
+"UnTag": ""
+},
+
+"Colors": {
+"Mavi": "#49d2df",
+"Mor": "#af23e7",
+"Pembe": "#e723de",
+"Sarı": "#d8ca4c",
+"Altın": "#f7a831",
+"Magenta": "#da42ae",
+"Kırmızı": "#c72828",
+"Yesil": "#43dd64",
+"NoEmbed": "#2f3136",
+"Special": "cf8c44"
+},
+
+"Emoji": {
+"True": "emoji <a:saddas:12344123213> böyle gir",
+"False": "emoji <a:saddas:12344123213> böyle gir",
+"TrueID": "burayada emojilerin sadece idsi",
+"FalseID": "burayada sadece emojilerin idisi"
+}
+
+}
